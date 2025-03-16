@@ -74,7 +74,7 @@ Additionally, being a tester helps me apply empathy and consideration for users.
 
 <div>
   <h2>Test Report example</h2>
-  <a href="https://drive.google.com/drive/folders/1DyKACO41YGEGehMGBZWZ1Ns36QUt9KVA" target="_blank">
+  <a href="https://drive.google.com/file/d/1viE5a2_N1ngKhNuA6S9CpELZSyI7eaMd/view?usp=sharing" target="_blank">
   Click to view test report example
 </div>
 
